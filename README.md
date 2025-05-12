@@ -9,7 +9,7 @@ Will count numbers from 1 to 50 with every number on a separate line
 In order to use this script put it in terminal window and run
 
 Copy this and use it in your machine
-https://github.com/brodas14/linxfinalproj.git
+# git clone https://github.com/brodas14/linxfinalproj.git
 
 Location
 cd linxfinalproj
